@@ -1,0 +1,1 @@
+console.log("EL meu srcipt JavaScript està funcionant!");
